@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Catalogo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="schemabibloteca.xsd"
+>
+   <Explorador>
+      <Buscador></Buscador>
+      <Filtro>
+         <etiqueta>suspenso</etiqueta>
+         <etiqueta>terror</etiqueta>
+         <etiqueta>psicologico</etiqueta>
+      </Filtro>
+   </Explorador>
+   <Item>
+      <Nombre>Fragmentado</Nombre>
+      <Descripcion>Pelicula que .....</Descripcion>
+      <Fecha>2002-09-24</Fecha>
+      <Categoria>
+         <Etiqueta1></Etiqueta1>
+      </Categoria>
+   </Item>
+</Catalogo>
